@@ -1,1 +1,1 @@
-# embedded-system-design-and-lab
+# 임베디드시스템설계및실험
